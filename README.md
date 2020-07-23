@@ -1,2 +1,3 @@
 # machine-learning
-basic machine learning project
+## Titanic datasheet
+ Predicting the titanic survivor
